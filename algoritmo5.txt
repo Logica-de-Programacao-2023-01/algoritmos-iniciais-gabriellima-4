@@ -1,0 +1,10 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+1: leia lista de arquivos
+2: leia tamanho da lista
+3: leia arquivo desejado, por exemplo "xxxxx.txt"
+4: para cada arquivo da lista, faça:
+5: numa aba de pesquisa, utilize o nome do arquivo desejado como referência
+6: se o nome do arquivo for compatível com o desejado,
+   escreva o nome do arquivo em destaque e execute.
+7: senão, continue a procura com o arquivo subsequente da lista
