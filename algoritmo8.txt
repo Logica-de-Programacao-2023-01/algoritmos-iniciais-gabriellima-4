@@ -1,0 +1,6 @@
+Algoritmo de cálculo de área de um triângulo: um algoritmo que calcula a área de um triângulo com base na base e altura fornecidas.
+
+1: leia base_triângulo
+2: leia altura_triângulo
+3: resultado = (base_triângulo * altura_triângulo)/2
+4: escreva resultado
