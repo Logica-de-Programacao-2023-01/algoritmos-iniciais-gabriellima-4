@@ -1,0 +1,7 @@
+Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+
+1: leia C, este sendo o capital investido na operação
+2: leia i, em que i é a taxa de juros, e deve estar em formato decimal
+3: leia t, em que t é o período de tempo
+4: montante = C * (1+i)^t
+5: escreva montante em formato contábil
